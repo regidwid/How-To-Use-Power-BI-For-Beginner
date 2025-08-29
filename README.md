@@ -23,6 +23,10 @@ Microsoft, Power BI
 Microsoft, Excel
 Python (Mengolah data)
 
+# Link download Power BI Desktop
+
+[Klik_Disini]([(https://www.microsoft.com/id-id/download/details.aspx?id=58494)])
+
 # Link Medium
 
 [Klik_Disini](https://medium.com/@regi.dwi21.rd/bingung-memilih-platform-pertama-yang-cocok-untuk-visualisasi-data-90e9a1bf7f2f)
