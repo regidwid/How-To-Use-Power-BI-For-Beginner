@@ -16,5 +16,9 @@ Repo ini menggunakan Dataset dummy berupa penjualan dari sebuah toko yang menjua
 
 Tutorial ini tidak hanya menunjukan turorial bagaimana menunjukan cara menggunakan Power BI dari awal namun juga menunjukan kelebihan Power BI dibandingkan dengan tools yang lain, dengan dibuatnya repo ini diharapkan dapat membantu pemula untuk menentukan pilihan sekaligus menunjukan cara penggunaannya.
 
+# Link Medium
+
+[Klik_Disini](https://medium.com/@regi.dwi21.rd/bingung-memilih-platform-pertama-yang-cocok-untuk-visualisasi-data-90e9a1bf7f2f)
+
 
 
