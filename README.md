@@ -2,7 +2,12 @@
 Repo ini dibuat untuk menunjukan bagaimana menggunakan Power BI untuk pemula, beserta contoh hasil
 
 # Dataset
-Repo ini menggunakan Dataset dummy berupa penjualan dari sebuah toko yang menjual berbagai macam produk, pasar dari toko ini berada di US dan Canada.
+Repo ini menggunakan Dataset dummy berupa penjualan dari sebuah toko bernama SuperStore yang menjual berbagai macam produk dari 3 kategori berbeda, pasar dari toko ini berada di US dan Canada.
+
+
+# Goals
+
+Tutorial ini tidak hanya menunjukan turorial bagaimana menunjukan cara menggunakan Power BI dari awal namun juga menunjukan kelebihan Power BI dibandingkan dengan tools yang lain, dengan dibuatnya repo ini diharapkan dapat membantu pemula untuk menentukan pilihan sekaligus menunjukan cara penggunaannya.
 
 # Steps
 
@@ -12,9 +17,11 @@ Repo ini menggunakan Dataset dummy berupa penjualan dari sebuah toko yang menjua
 - Ikuti alur sesuai artikel
 
 
-# Goals
+# Tools Yang Digunakan
 
-Tutorial ini tidak hanya menunjukan turorial bagaimana menunjukan cara menggunakan Power BI dari awal namun juga menunjukan kelebihan Power BI dibandingkan dengan tools yang lain, dengan dibuatnya repo ini diharapkan dapat membantu pemula untuk menentukan pilihan sekaligus menunjukan cara penggunaannya.
+Microsoft, Power BI
+Microsoft, Excel
+Python (Mengolah data)
 
 # Link Medium
 
@@ -22,6 +29,10 @@ Tutorial ini tidak hanya menunjukan turorial bagaimana menunjukan cara menggunak
 
 # Link Power BI(Contoh Hasil)
 [Klik_Disini]([(https://app.powerbi.com/groups/me/reports/5cab464e-5800-459f-ad1a-393b606d553f/471294c55200707a89ba?experience=power-bi)])
+
+# Author
+
+Regi Dwi Darmawan kritik dan saran dapat sangat membantu kirimkan melalui regi.dwi21.rd@gmail.com
 
 
 
