@@ -20,5 +20,8 @@ Tutorial ini tidak hanya menunjukan turorial bagaimana menunjukan cara menggunak
 
 [Klik_Disini](https://medium.com/@regi.dwi21.rd/bingung-memilih-platform-pertama-yang-cocok-untuk-visualisasi-data-90e9a1bf7f2f)
 
+# Link Power BI(Contoh Hasil)
+[Klik_Disini]([(https://app.powerbi.com/groups/me/reports/5cab464e-5800-459f-ad1a-393b606d553f/471294c55200707a89ba?experience=power-bi)])
+
 
 
