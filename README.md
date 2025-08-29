@@ -10,3 +10,11 @@ Repo ini menggunakan Dataset dummy berupa penjualan dari sebuah toko yang menjua
 - Download dataset yang sudah tersemat
 - Buka artikel medium yang tertera
 - Ikuti alur sesuai artikel
+
+
+# Goals
+
+Tutorial ini tidak hanya menunjukan turorial bagaimana menunjukan cara menggunakan Power BI dari awal namun juga menunjukan kelebihan Power BI dibandingkan dengan tools yang lain, dengan dibuatnya repo ini diharapkan dapat membantu pemula untuk menentukan pilihan sekaligus menunjukan cara penggunaannya.
+
+
+
